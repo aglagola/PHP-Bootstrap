@@ -1,0 +1,18 @@
+{
+  "name": "Project1",
+  "version": "0.0.0",
+  "description": "A website that tests out polymer",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "core-elements": "Polymer/core-elements#~0.5.5"
+  }
+}
